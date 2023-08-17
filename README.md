@@ -26,4 +26,4 @@ You can learn all the math stuff [here](https://www.bilibili.com/video/BV1sd4y16
 2. It contains the classic algorithms of SNN using PyTorch or SpikingJelly, such as:
 
 3. The unique part of this repo is that it will contain the code reproduction of some classic papers about the combination of reinforcement learning and spiking neural network.
->>>>>>> 3085845 (first commit)
+
