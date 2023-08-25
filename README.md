@@ -23,7 +23,12 @@ You can learn all the math stuff [here](https://www.bilibili.com/video/BV1sd4y16
 - DQN (Deep Q-learning Network)
 - Actor-Critic
 
-2. It contains the classic algorithms of SNN using PyTorch or SpikingJelly, such as:
+2. It contains basic motion planning algorithms, such as:
+- Dijkstra algorithm：*1959-A note on two problems in connexion with graphs*
+- A-star algorithm：*1968-A Formal Basis for the Heuristic Determination of Minimum Cost Paths*
+- Bellman dynamic：*1966-Dynamic programming*
+- RRT algorithm：*2008-A perception-driven autonomous urban vehicle*
+- RL AD used in real car：*2018-Leaning to drive in a day* ([pdf](https://arxiv.org/abs/1807.00412))
 
 3. The unique part of this repo is that it will contain the code reproduction of some classic papers about the combination of reinforcement learning and spiking neural network.
 
